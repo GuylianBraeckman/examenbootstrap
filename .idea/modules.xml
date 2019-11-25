@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cursussen/HTML CSS ADVANCED/Stappenplan_bootstrap/.idea/bootstraptemplate.iml" filepath="$PROJECT_DIR$/../cursussen/HTML CSS ADVANCED/Stappenplan_bootstrap/.idea/bootstraptemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/examenBootstrap.iml" filepath="$PROJECT_DIR$/.idea/examenBootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cursussen/HTML CSS ADVANCED/prechu_bootstrap-master/.idea/prechu_bootstrap-master.iml" filepath="$PROJECT_DIR$/../cursussen/HTML CSS ADVANCED/prechu_bootstrap-master/.idea/prechu_bootstrap-master.iml" />
+    </modules>
+  </component>
+</project>

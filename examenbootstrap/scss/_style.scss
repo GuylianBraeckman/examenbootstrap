@@ -1,0 +1,129 @@
+body{
+  background-color:#282a2e;
+  font-family: 'Roboto', SansSerif;
+}
+.navbar{
+  background-color: #282a2e !important;
+  color: white !important;
+  margin-top: 50px;
+}
+#brandname{
+  font-size: 24px;
+  color:white;
+}
+ul{
+  font-size: 16px;
+  color:white !important;
+  li{
+    font-size: 16px;
+    color: white !important;
+
+  }
+  li a{
+    padding-left:50px;
+  }
+
+  hover.li a{
+    color: green;
+  }
+}
+#fotos{
+  width: 100%;
+}
+
+.nav-link {
+  color: white !important;
+  &:hover{
+    color:white !important;
+  }
+}
+
+.navbar-toggler{
+  color:white;
+}
+h5{
+font-size: 60px;
+}
+#ptag{
+  font-size: 40px;
+}
+h2{
+  color:white;
+  margin-top: 55px;
+  text-align: center;
+}
+h3{
+  color:white;
+  font-size: 24px;
+}
+.tekst{
+  font-size: 13px;
+  color:white !important;
+}
+
+#deel2{
+  background-color: #4b3f34;
+}
+.kleinearticles{
+  text-align:center;
+}
+.nav-link active{
+  background-color: #1bbc9d;
+
+}
+
+.fotokes{
+  margin-top: 40px;
+  padding-left: 15px;
+}
+.fotokes2{
+  margin-top:15px;
+  padding-left: 15px;
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+header{
+  height: 112px;
+  align-content: center;
+}
+}
+.bd example{
+  height:591px;
+}
+#titel{
+  padding-left:140px;
+  font-size:60px;
+  padding-top: 160px;
+}
+  .buttons{
+
+
+    color: white;
+    border-style: none;
+    height: 43px;
+    width: 130px;
+    border-radius: 10px;
+    font-size: 14px;
+  }
+
+  #button1{
+    margin-left:140px;
+    background-color: #b0cd3b;
+  }
+  #button2{
+    background-color: #1bbc9d;
+    margin-left: 15px;
+  }
+
+
+#deel1{
+  height: 429px;
+}
+#deel2{
+ height: 430px;
+}
+
+#fotos{
+  margin-left:15px;
+}
